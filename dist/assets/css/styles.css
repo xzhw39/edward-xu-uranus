@@ -1,7 +1,7 @@
-/* page control */
+/* page setup */
 :root {
-  --card-background-color: #dadada;
-  --background-color: #f5f3f0;
+  --card-background-color: #e1dcdc;
+  --background-color: #d5cab9;
   --midnight-blue: #03045eff;
   --dark-cornflower-blue: #023e8aff;
   --star-command-blue: #0077b6ff;

@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jinyiyu/employee-profile-generator.git"
+    "url": "git+https://github.com/xzhw39/edward-xu-uranus"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jinyiyu/employee-profile-generator/issues"
+    "url": "https://github.com/xzhw39/edward-xu-uranus/issues"
   },
-  "homepage": "https://github.com/jinyiyu/employee-profile-generator#readme",
+  "homepage": "https://github.com/xzhw39/edward-xu-uranus#readme",
   "dependencies": {
     "fs": "^0.0.1-security",
     "inquirer": "^8.2.4"

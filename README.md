@@ -37,7 +37,7 @@ THEN I exit the application, and the HTML is generated
 
 Please download the following video to watch:
 
-[DEMO Video](https://drive.google.com/file/d/1Z5O3rMjYUlmZ9lBPI7JJtxKg7jidJuyb/view?usp=sharing)
+[DEMO Video](https://drive.google.com/file/d/1L4TrgLS3D6bHsq2br29fEcA_80UeovxQ/view?usp=sharing)
 
 [GitHub](https://github.com/xzhw39/edward-xu-uranus)
 

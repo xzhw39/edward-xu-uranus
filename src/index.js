@@ -22,22 +22,22 @@ const managerQuestions = [
   {
     name: "name",
     type: "input",
-    message: "Please enter the team manager's name.",
+    message: "What is the Team Manager's name?",
   },
   {
     name: "id",
     type: "input",
-    message: "Please enter the team manager's ID.",
+    message: "What is the Team Manager's ID?",
   },
   {
     name: "email",
     type: "input",
-    message: "Please enter the team manager's email.",
+    message: "What is the Team Manager's email?",
   },
   {
     name: "officeNum",
     type: "input",
-    message: "Please enter the team manager's Office Number.",
+    message: "What is the Team Manager's Office Number?",
   },
 ];
 
@@ -58,22 +58,22 @@ const engineerQuestions = [
   {
     name: "name",
     type: "input",
-    message: "Please enter the Engineer's name.",
+    message: "What is the Engineer's name?",
   },
   {
     name: "id",
     type: "input",
-    message: "Please enter the Engineer's ID.",
+    message: "What is the Engineer's ID?",
   },
   {
     name: "email",
     type: "input",
-    message: "Please enter the Engineer's email.",
+    message: "What is the Engineer's email?",
   },
   {
     name: "github",
     type: "input",
-    message: "Please enter the Engineer's Github Username.",
+    message: "What is the Engineer's Github Username?",
   },
 ];
 
@@ -81,22 +81,22 @@ const internQuestions = [
   {
     name: "name",
     type: "input",
-    message: "Please enter the Intern's name.",
+    message: "What is the Intern's name?",
   },
   {
     name: "id",
     type: "input",
-    message: "Please enter the Intern's ID.",
+    message: "What is the Intern's ID?",
   },
   {
     name: "email",
     type: "input",
-    message: "Please enter the Intern's email.",
+    message: "What is the Intern's email?",
   },
   {
     name: "school",
     type: "input",
-    message: "Please enter the Intern's school.",
+    message: "What is the Intern's school?",
   },
 ];
 
